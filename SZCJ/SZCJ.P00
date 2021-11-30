@@ -1,0 +1,7 @@
+* * * *   SZCJ   C14 N2 O2 H21 Br   P 21 21 21   Z=4   * * * *
+CONTENTS-UNIT-CELL      C 56  N 8  BR 4  H 84  O 8
+CELL-DIMENSIONS         10.75  7.91  16.59  90  90  90
+SPACE-GROUP             P 21 21 21
+DATA-FILE-HKL           E:\SAPI\SAMPLES\SZCJ\SZCJ.HKL              
+AUTO-PATTERSON          
+END                     
