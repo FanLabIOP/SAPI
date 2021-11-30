@@ -1,0 +1,111 @@
+***    HWHK  BACEF(CO3)2  R3  Z=6  T(PSEUDO)=C/4    ***                         
+
+Unit cell:
+
+      a           b           c
+---------------------------------------
+   5.070   5.070  38.408
+
+   alpha    beta   gamma 
+----------------------------------------
+   90.00   90.00  120.00
+
+Nr of independent atoms =    7.33
+
+Temperature factor   B =    1.15
+sqrt(scale)*Fo = exp(-B*rho)*Fc
+
+* Pseudo-translation found *
+
+Refls are rescaled according to
+the following  4 groups:
+
+Group  1   L = 4 N                  
+
+Group  2   L = 4 N + 1              
+
+Group  3   L = 4 N + 2              
+
+Group  4   L = 4 N + 3              
+
+   165 largest Es output to PHASE
+          including  50
+          systematically strong ones
+
+  27 smallest Es output to PHASE
+          including   0
+          systematically strong ones
+
+Direct methods
+****************
+
+w-w-w relationships rejected
+
+Phase relationships =   4558
+
+     Kappa minimum =    .70
+     Kappa maximum =   8.46
+
+Accepted relationships =  2704
+
+Psi zero FOM calculated using
+   18 reflections and
+  458 relationships
+
+Nr of starting phases =   115
+
+Weight for random phases =  .25
+
+Conventional weighting
+
+Nr of phase sets skiped =     0
+
+Summary of figures of merit:
+
+            Abs-fom  Psi-zero  Residl
+------------------------------------------------------
+Max       1.6631     3.791     21.77
+Min        1.6565     2.653     21.72
+Weight      .20        1.40       1.40
+
+E-MAP
+*******
+
+SET       ABS-FOM  PSI-ZERO  RESIDL
+------------------------------------------------------
+   1         1.6565     2.653     21.74
+
+------------------ Peak list -------------------
+
+ Nr   Height       x          y         z
+  1    4971  1.0041   .0183   .1961
+  2    4797  1.3378  -.3174   .3764
+  3    4169  1.0053   .0164   .9521
+  4    4145  1.0047   .0138   .4578
+  5     848  1.1870  -.2043   .2508
+  6     830  1.0035   .0170   .1401
+  7     825  2.0007  -.0008   .3276
+  8     816  1.7092  -.1438   .3256
+  9     816  1.3375 -1.3409   .4367
+ 10     798  1.3325  -.3323   .2486
+ 11     676  1.3750  -.8101   .4015
+ 12     662  1.6675  -.6683   .4037
+ 13     638  1.5380   .0592   .1747
+ 14     632  1.6659   .3350   .1727
+ 15     617  1.6695   .3541   .2170
+ 16     583  1.6673  -.6680   .3545
+ 17     575  1.8733  -.2772   .3339
+ 18     569  1.4808  -.0425   .2416
+ 19     552  1.3367  -.3094   .2992
+ 20     537  1.0039  -.0057   .2764
+ 21     504  1.0034  -.9718   .3833
+ 22     466  1.5431  -.9391   .4177
+ 23     458  1.3341  -.3349   .1876
+ 24     449  1.3793   .1907   .1523
+ 25     339  1.2531   .0128   .2156
+ 26     337  1.5928  -.0983   .3597
+ 27     329  1.9956   .3315   .1598
+ 28     305  1.1873   .0173   .1721
+ 29     305  1.0811  -.1968   .2167
+ 30     301  1.3498  -.5064   .4037
+

@@ -1,0 +1,21 @@
+* * *   FREIELEBENITE   PB AG SB S3   P21/A   * * *
+CONTENTS-UNIT-CELL      PB 4   AG 4   SB 4   S 12
+CELL-DIMENSIONS         7.518  12.809  5.940  90.0  92.25  90.0
+SPACE-GROUP             P 21/A
+DATA-FILE-HKL           E:\SAPI\SAMPLES\FREI\FREI.HKL
+NR-GROUPS-SPECIFIED     6
+GROUP-HKL               1     H = 2N ;      K = 3N           
+GROUP-HKL               2     H = 2N ;      K = 3N + 1           
+GROUP-HKL               3     H = 2N ;      K = 3N + 2           
+GROUP-HKL               4     H = 2N + 1 ;  K = 3N            
+GROUP-HKL               5     H = 2N + 1 ;  K = 3N + 1           
+GROUP-HKL               6     H = 2N + 1 ;  K = 3N + 2
+FOURIER-WEIGHTED        
+B-FACTOR                1.688                                                
+   PB    0.1484    0.4142    0.7472    1
+   SB   -0.3631    0.4147    0.7235    2
+   AG   -0.1213    0.2448    1.2105    3
+    S   -0.1408    0.2784    0.6628    4
+    S   -0.3602    0.3800    1.1318    5
+    S   -0.1438    0.5553    0.7386    6
+END                     
