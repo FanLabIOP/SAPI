@@ -1,0 +1,9 @@
+***     ZCW   i(pseudo) at 0,1/4,0     ***
+CONTENTS-UNIT-CELL      C 68   N 2   O 22   I 2
+CELL-DIMENSIONS         12.58 14.38 11.00 90 114.6 90 
+SPACE-GROUP             P 21
+DATA-FILE-HKL           E:\SAPI\SAMPLES\ZCW\ZCW.HKL
+NR-PEAKS-TO-LIST        100
+AUTO-PATTERSON          
+NO-JOIN                 
+END                     

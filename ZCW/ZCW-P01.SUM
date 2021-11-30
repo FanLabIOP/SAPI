@@ -1,0 +1,17 @@
+***     ZCW   i(pseudo) at 0,1/4,0     ***                                      
+
+Unit cell:
+
+      a           b           c
+---------------------------------------
+  12.580  14.380  11.000
+
+   alpha    beta   gamma 
+----------------------------------------
+   90.00  114.60   90.00
+
+Nr of independent atoms = 47.00
+
+Temperature factor   B =    5.68
+sqrt(scale)*Fo = exp(-B*rho)*Fc
+

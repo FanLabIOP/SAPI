@@ -1,0 +1,6 @@
+* * *   PTS24 t(pseudo)=b/2+c/2   * * *
+CONTENTS-UNIT-CELL      C 72 H 72 O 12 N 4 BR 4
+CELL-DIMENSIONS         12.4857 10.8223 14.6087 90 109.121 90
+SPACE-GROUP             P 21
+DATA-FILE-HKL           e:\sapi\samples\pts24\pts24.hkl
+END                     
